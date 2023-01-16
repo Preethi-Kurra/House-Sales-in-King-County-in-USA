@@ -1,1 +1,1 @@
-# House-Sales-in-King-County-in-USA
+# House Sales in King County in USA
